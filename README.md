@@ -1,1 +1,2 @@
 # DeterminantsofthePricePaidatAuction
+In this paper I look at the determinants of the price paid at auction for sales of contemporary art by twelve artists, modelling each separately. My work re-contextualises earlier work and also looks at one determinant, the type of title the work was presented with, which has received very limited attention from other scholars. It can be found at: https://www.mdpi.com/2076-0752/11/3/66
